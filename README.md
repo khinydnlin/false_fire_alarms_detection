@@ -70,6 +70,8 @@ We aimed for high precision rates to minimize missing actual incidents. We explo
 |KNN                  | 0.99       | 0.80      | 0.88      | 0.89     |
 |Random Forest        | 0.99       | 0.80      | 0.89      | 0.90     |
 
+Note: False alarms = 1, Acutal Incidents = 0
+
 Confusion Matrix
 
 ![image](https://github.com/khinydnlin/portfolio/assets/145341635/aa87f862-ecd9-40ca-a530-2c322dbf2f62)
